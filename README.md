@@ -47,5 +47,19 @@
 
 ## 6. PIP 
 
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(202).png">
 
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(203).png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(204).png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(205).png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(206).png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(207).png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(208).png">
+
+<img src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIASL-PYTHON-PY-7/blob/main/Screenshot%20(209).png">
 
